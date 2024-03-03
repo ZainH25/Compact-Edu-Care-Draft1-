@@ -1,0 +1,1203 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.about-us-8kF {
+  box-sizing: border-box;
+  padding-top: 0.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.about-us-8kF .auto-group-u4x1-eyV {
+  margin-bottom: 260.45rem;
+  width: 100%;
+  height: 449.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .rectangle-335-8dm {
+  width: 14rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 163.6rem;
+  top: 2.5rem;
+  background: linear-gradient(101.61deg, #1b2145 -0%, #7e56d8 93.39%);
+  border-radius: 1rem;
+}
+.about-us-8kF .auto-group-u4x1-eyV .explore-courses-pmV {
+  width: 10rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 165.8rem;
+  top: 4.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .background-3-iby {
+  width: 192rem;
+  height: 93.6rem;
+  position: absolute;
+  left: 0;
+  top: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014994-3PM {
+  width: 48.6rem;
+  height: 3.8423rem;
+  position: absolute;
+  left: 59.8rem;
+  top: 2.9577rem;
+  display: flex;
+  align-items: flex-start;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014994-3PM .home-MQ3 {
+  margin: 1.042rem 1.745rem 0rem 0rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #1b2336;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014994-3PM .vector-fQj {
+  margin-right: 1.3718rem;
+  width: 1.0788rem;
+  height: 0.3388rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014994-3PM .courses-bZH {
+  margin: 1.242rem 1.87rem 0rem 0rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #1b2336;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014994-3PM .vector-WRM {
+  margin-right: 1.3719rem;
+  width: 1.0788rem;
+  height: 0.3388rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014994-3PM .top-colleges-rEK {
+  margin: 1.242rem 1.612rem 0rem 0rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #1b2336;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014994-3PM .vector-AVu {
+  margin-right: 1.4783rem;
+  width: 1.0788rem;
+  height: 0.3388rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014994-3PM .about-us-Wpf {
+  margin: 1.242rem 1.535rem 0rem 0rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  text-transform: capitalize;
+  color: #1b2336;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014994-3PM .vector-2Y7 {
+  width: 1.0788rem;
+  height: 0.3388rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1-Nby {
+  box-sizing: border-box;
+  padding-top: 0.05rem;
+  width: 7.75rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 131.95rem;
+  top: 4.3rem;
+  display: flex;
+  align-items: center;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1-Nby .icon-6H5 {
+  margin: 0rem 2.85rem 0.15rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1-Nby .icon-DMh {
+  margin-top: 0.05rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .link-brand1png-xaB {
+  width: 12rem;
+  height: 3.3rem;
+  position: relative;
+  left: 24.1rem;
+  top: 108.1rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-brand1png-oew.png');
+}
+.about-us-8kF .auto-group-u4x1-eyV .rectangle-8681-T19 {
+  width: 35.9rem;
+  height: 31.3rem;
+  position: absolute;
+  left: 0;
+  top: 317.4rem;
+  border: solid 0.3rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  border-radius: 50rem 50rem 0 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .rectangle-2722-wwu {
+  width: 192rem;
+  height: 54.1rem;
+  position: absolute;
+  left: 0;
+  top: 395.6rem;
+  background: linear-gradient(274.63deg, #1b2246 100%, #865aef 200.96%);
+}
+.about-us-8kF .auto-group-u4x1-eyV .compact-edu-care-is-one-of-bangalores-top-providers-of-education-consulting-services-our-knowledgeable-advisers-have-vast-experience-in-all-major-courses-for-masters-bachelors-and-diploma-programs-as-well-as-board-knowledge-s4s {
+  width: 48.8rem;
+  height: 14rem;
+  position: absolute;
+  left: 15.6rem;
+  top: 419.9rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13184-ezj {
+  box-sizing: border-box;
+  padding: 0.167rem 0.166rem 0.167rem 0.166rem;
+  width: 17.4503rem;
+  height: 2rem;
+  position: absolute;
+  left: 159.1rem;
+  top: 369.6rem;
+  display: flex;
+  align-items: center;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13184-ezj .icons-facebook-line-M8T {
+  margin-right: 3.4352rem;
+  width: 1.6563rem;
+  height: 1.6667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13184-ezj .icons-twitter-line-54T {
+  margin: 0rem 3.435rem 0rem 0rem;
+  width: 1.809rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13184-ezj .icons-instagram-line-Pqq {
+  margin-right: 3.4709rem;
+  width: 1.6563rem;
+  height: 1.6667rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13184-ezj .icons-dribbble-line-LFH {
+  width: 1.6563rem;
+  height: 1.6667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-512856-4SB {
+  width: 26rem;
+  height: 18.6rem;
+  position: absolute;
+  left: 76rem;
+  top: 409.2rem;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-512856-4SB .quick-links-avK {
+  margin: 0rem 0rem 8.3rem 1.5rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 0.96;
+  color: #ffffff;
+  font-family: Rowdies, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-512856-4SB .auto-group-kch5-6tf {
+  margin-bottom: 2.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-512856-4SB .auto-group-kch5-6tf .about-evB {
+  margin: 0.2rem 8.6rem 0rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-512856-4SB .auto-group-kch5-6tf .top-categories-Add {
+  margin-bottom: 0.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-512856-4SB .auto-group-sjs7-Vfu {
+  margin-right: 5.9rem;
+  width: calc(100% - 5.9rem);
+  display: flex;
+  align-items: center;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-512856-4SB .auto-group-sjs7-Vfu .course-EtP {
+  margin-right: 7.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-512856-4SB .auto-group-sjs7-Vfu .contact-mdR {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .compact-edu-care-is-one-of-bangalores-top-providers-of-education-consulting-services-our-knowledgeable-advisers-have-vast-experience-in-all-major-courses-for-masters-bachelors-and-diploma-programs-as-well-as-board-knowledge-JtF {
+  width: 48.8rem;
+  height: 14rem;
+  position: absolute;
+  left: 15.6rem;
+  top: 198.9979rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+}
+.about-us-8kF .auto-group-u4x1-eyV .copyright-2024-all-rights-reserved-FS7 {
+  width: 30.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 213.1903rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .contact-us-k7y {
+  width: 13.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 112.6rem;
+  top: 409.5rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 0.96;
+  color: #ffffff;
+  font-family: Rowdies, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .line-5-rRu {
+  width: 160rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 440.2rem;
+  background-color: rgba(255, 255, 255, 0.3199999928);
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13190-Nv3 {
+  width: 70.1031rem;
+  height: 151.6829rem;
+  position: absolute;
+  left: 112.5969rem;
+  top: 276.4171rem;
+  display: flex;
+  align-items: flex-end;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13190-Nv3 .auto-group-6mdh-Vzf {
+  margin: 0rem 6.315rem 1.4rem 0rem;
+  width: 28.3721rem;
+  height: 150.2829rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13190-Nv3 .auto-group-6mdh-Vzf .group-13189-dLB {
+  box-sizing: border-box;
+  padding-left: 0.1188rem;
+  width: 19.5695rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0.0031rem;
+  top: 141.6829rem;
+  display: flex;
+  align-items: center;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13190-Nv3 .auto-group-6mdh-Vzf .group-13189-dLB .phoneicon-1-YCF {
+  margin: 0.415rem 2.676rem 0rem 0rem;
+  width: 1.5745rem;
+  height: 1.5777rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13190-Nv3 .auto-group-6mdh-Vzf .group-13189-dLB .item-91-82818-60893-91-77608-97689-ryd {
+  max-width: 15.2rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13190-Nv3 .auto-group-6mdh-Vzf .group-13187-mKu {
+  width: 28.3721rem;
+  height: 150.2829rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13190-Nv3 .auto-group-6mdh-Vzf .group-13187-mKu .group-13186-7Pm {
+  margin-bottom: 147.6896rem;
+  width: 1.6149rem;
+  height: 0.7933rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13190-Nv3 .auto-group-6mdh-Vzf .group-13187-mKu .compacteducaregmailcom-r6T {
+  margin-left: 4.4721rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13190-Nv3 .group-13188-mUK {
+  box-sizing: border-box;
+  padding-left: 0.3104rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13190-Nv3 .group-13188-mUK .addresslocationmapnavigationicon-1-uaX {
+  margin: 0.862rem 2.339rem 0rem 0rem;
+  width: 1.3668rem;
+  height: 1.8748rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-13190-Nv3 .group-13188-mUK .krishna-kaveri-towers-80-feet-road-hesarghatta-rd-opp-sapthagiri-hospital-agb-layout-bengaluru-karnataka-560090-DbD {
+  max-width: 31.4rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.3888888889;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .frame-hFV {
+  width: 5.4286rem;
+  height: 6rem;
+  position: absolute;
+  left: 17.1rem;
+  top: 332.3rem;
+  overflow: hidden;
+}
+.about-us-8kF .auto-group-u4x1-eyV .rklogo-removebg-preview-transformed-1-EWK {
+  width: 11.6rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-us-8kF .auto-group-u4x1-eyV .compact-edu-care-Mqq {
+  width: 22rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 17.2rem;
+  top: 4.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.75;
+  color: #1a2244;
+  font-family: Russo One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .untitleddesign11-removebg-preview-1-1-T8B {
+  width: 8.9rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 15.3rem;
+  top: 405rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-us-8kF .auto-group-u4x1-eyV .compact-edu-care-mef {
+  width: 21.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 24.6rem;
+  top: 408.3rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.75;
+  color: #ffffff;
+  font-family: Rowdies, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .frame-1-sxb {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 57.9rem;
+  top: 0.6rem;
+  overflow: hidden;
+}
+.about-us-8kF .auto-group-u4x1-eyV .our-colleges-24o {
+  width: 10.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 76rem;
+  top: 429.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .link-brand1png-vfy {
+  width: 12rem;
+  height: 3.3rem;
+  position: relative;
+  left: 24.1rem;
+  top: 107.9rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-brand1png.png');
+}
+.about-us-8kF .auto-group-u4x1-eyV .rectangle-8713-Df5 {
+  width: 192rem;
+  height: 93.6rem;
+  position: absolute;
+  left: 0;
+  top: 11.6rem;
+  background-color: #1b2145;
+}
+.about-us-8kF .auto-group-u4x1-eyV .ellipse-8324-ZU3 {
+  width: 31.4rem;
+  height: 31.4rem;
+  position: absolute;
+  left: 0;
+  top: 45.6rem;
+  filter: blur(6rem);
+  background-color: rgba(129, 199, 162, 0.3000000119);
+  border-radius: 15.7rem;
+}
+.about-us-8kF .auto-group-u4x1-eyV .about-us-Ub1 {
+  width: 39.8rem;
+  height: 8rem;
+  position: absolute;
+  left: 13.8rem;
+  top: 43.4rem;
+  display: flex;
+  font-size: 9rem;
+  font-weight: 400;
+  line-height: 0.8888888889;
+  color: #ffffff;
+  font-family: Rowdies, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+}
+.about-us-8kF .auto-group-u4x1-eyV .about-us-Ub1 .about-us-Ub1-sub-0 {
+}
+.about-us-8kF .auto-group-u4x1-eyV .about-us-Ub1 .about-us-Ub1-sub-1 {
+  font-size: 9rem;
+  font-weight: 400;
+  line-height: 0.8888888889;
+  color: #fedcaf;
+  font-family: Rowdies, 'Source Sans Pro';
+}
+.about-us-8kF .auto-group-u4x1-eyV .rs-layer-wrap-rs-loop-wrap-rs-mask-wrap-rs-layer-successful-coaches-are-visionaries-successful-coaches-are-visionaries-myR {
+  width: 45.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 27.95rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.1111111111;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .rs-layer-wrap-rs-loop-wrap-rs-mask-wrap-QmV {
+  box-sizing: border-box;
+  padding: 1.1rem 0;
+  width: 19.4rem;
+  height: 8.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 14.4rem;
+  top: 65.9rem;
+  overflow: hidden;
+  border: solid 0.2rem #ffffff;
+  border-radius: 1rem;
+}
+.about-us-8kF .auto-group-u4x1-eyV .rs-layer-wrap-rs-loop-wrap-rs-mask-wrap-QmV .link-uy9 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5555555556;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.5rem;
+}
+.about-us-8kF .auto-group-u4x1-eyV .get-free-consultation-zUo {
+  width: 18rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 37.4rem;
+  top: 66.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 2.8888888889;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .ellipse-8325-uLs {
+  width: 74rem;
+  height: 69.2rem;
+  position: absolute;
+  left: 111rem;
+  top: 22.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014995-S5u {
+  width: 23.4rem;
+  height: 15.8rem;
+  position: absolute;
+  left: 98.4rem;
+  top: 32.4rem;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014995-S5u .heading-3-ronald-richards-ZRR {
+  margin-bottom: 1.9rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2749999762;
+  color: #ffffff;
+  font-family: Rowdies, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014995-S5u .education-is-the-most-powerful-weapon-which-you-can-use-to-change-the-world-gW3 {
+  margin-bottom: 2rem;
+  max-width: 23.4rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Saira, 'Source Sans Pro';
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014995-S5u .auto-group-uvuu-BSo {
+  margin-right: 13.353rem;
+  width: calc(100% - 13.353rem);
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014995-S5u .auto-group-uvuu-BSo .item-45-ihd {
+  margin-right: 0.938rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 2.1000000636;
+  color: #5ab48e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014995-S5u .auto-group-uvuu-BSo .divinner-FBm {
+  margin: 0.309rem 0rem 0.391rem 0rem;
+  width: 7.109rem;
+  height: calc(100% - 0.7rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014995-S5u .auto-group-uvuu-BSo .divinner-FBm .item--mvo {
+  width: 5.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 1.8;
+  letter-spacing: 0.5rem;
+  color: #ffffff;
+  font-family: Font Awesome 5 Free, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014995-S5u .auto-group-uvuu-BSo .divinner-FBm .divw-percent-UaK {
+  width: 5.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 1.8;
+  letter-spacing: 0.5rem;
+  color: #81c7a2;
+  font-family: Font Awesome 5 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000014996-Zrf {
+  width: 2.4rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 93.5rem;
+  top: 33rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-8kF .auto-group-u4x1-eyV .rectangle-8714-W1D {
+  width: 22.5rem;
+  height: 31.8rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 78.2rem;
+  border: solid 0.3rem rgba(255, 255, 255, 0.3000000119);
+  box-sizing: border-box;
+  border-radius: 50rem 50rem 0 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .rectangle-8715-oW7 {
+  width: 31.3rem;
+  height: 35.9rem;
+  position: absolute;
+  left: 73.1rem;
+  top: 74.1rem;
+  border: solid 0.3rem rgba(255, 255, 255, 0.3000000119);
+  box-sizing: border-box;
+  border-radius: 50rem 50rem 0 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .rectangle-8716-KDZ {
+  width: 27.1rem;
+  height: 33.8rem;
+  position: absolute;
+  left: 75.2rem;
+  top: 76.2rem;
+  border: solid 0.3rem rgba(255, 255, 255, 0.3000000119);
+  box-sizing: border-box;
+  border-radius: 50rem 50rem 0 0;
+}
+.about-us-8kF .auto-group-u4x1-eyV .mask-group-pw1 {
+  width: 192rem;
+  height: 16.7rem;
+  position: absolute;
+  left: 0;
+  top: 105.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-8kF .auto-group-u4x1-eyV .rectangle-8717-mbM {
+  width: 192rem;
+  height: 16.9rem;
+  position: absolute;
+  left: 0;
+  top: 105.2rem;
+  background: linear-gradient(180deg, rgba(27, 31, 69, 0.7799999714) 56.5%, rgba(27, 33, 69, 0) 100%);
+}
+.about-us-8kF .auto-group-u4x1-eyV .link-brand1png-Ukf {
+  width: 12rem;
+  height: 3.7143rem;
+  position: relative;
+  left: 24.1rem;
+  top: 111.9rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-brand1png-GHm.png');
+}
+.about-us-8kF .auto-group-u4x1-eyV .link-brand2png-Buy {
+  width: 12rem;
+  height: 2.8916rem;
+  position: relative;
+  left: 49.4rem;
+  top: 112.4rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-brand2png.png');
+}
+.about-us-8kF .auto-group-u4x1-eyV .link-brand3png-h7d {
+  width: 12rem;
+  height: 6.8108rem;
+  position: relative;
+  left: 74.7rem;
+  top: 110.4rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-brand3png.png');
+}
+.about-us-8kF .auto-group-u4x1-eyV .link-brand4png-1PD {
+  width: 18rem;
+  height: 3.541rem;
+  position: relative;
+  left: 100rem;
+  top: 112rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-brand4png.png');
+}
+.about-us-8kF .auto-group-u4x1-eyV .link-brand5png-XMZ {
+  width: 12rem;
+  height: 3.6585rem;
+  position: relative;
+  left: 131.3rem;
+  top: 112rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-brand5png.png');
+}
+.about-us-8kF .auto-group-u4x1-eyV .link-brand6png-3ao {
+  width: 14rem;
+  height: 4.2424rem;
+  position: relative;
+  left: 156.6rem;
+  top: 111.7rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-brand6png.png');
+}
+.about-us-8kF .auto-group-u4x1-eyV .frame-4-mWo {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 40.2rem;
+  top: 29.7rem;
+  overflow: hidden;
+}
+.about-us-8kF .auto-group-u4x1-eyV .frame-5-7af {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 31.4rem;
+  top: 50.4rem;
+  overflow: hidden;
+}
+.about-us-8kF .auto-group-u4x1-eyV .cute-freelance-girl-using-laptop-sitting-floor-smiling-removebg-preview-1-4Vu {
+  width: 89.9rem;
+  height: 82.9rem;
+  position: absolute;
+  left: 102.1rem;
+  top: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-us-8kF .auto-group-u4x1-eyV .rectangle-8718-Aoq {
+  width: 175.5rem;
+  height: 74.2rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 145rem;
+  background-color: rgba(214, 202, 244, 0.4199999869);
+  border-radius: 9.7rem;
+}
+.about-us-8kF .auto-group-u4x1-eyV .rectangle-8719-hYs {
+  width: 196.1605rem;
+  height: 289.9409rem;
+  position: absolute;
+  left: 0;
+  top: 105.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000015000-F4b {
+  width: 48.8952rem;
+  height: 53.5rem;
+  position: absolute;
+  left: 102.2rem;
+  top: 264.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(216, 235, 255, 0.5);
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000015000-F4b .rectangle-8680-yFV {
+  width: 38.7rem;
+  height: 52.2rem;
+  position: absolute;
+  left: 0;
+  top: 1.3rem;
+  background-color: #ffffff;
+  border-radius: 0 0 2rem 2rem;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000015000-F4b .rectangle-8677-6L7 {
+  width: 38.5rem;
+  height: 15.7rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 37.8rem;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000015000-F4b .mask-group-pX1 {
+  width: 38.7rem;
+  height: 40.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000015000-F4b .anandu-ZjV {
+  width: 9.7rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 42.4rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.084rem;
+  color: #314360;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000015000-F4b .lead-marketer-skB {
+  width: 14.1rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 4rem;
+  top: 47.3rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.5909090909;
+  letter-spacing: -0.066rem;
+  color: #5e6775;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .compact-edu-care-is-an-esteemed-education-consultancy-company-located-in-agb-layoutbangalore-india-they-specialize-in-offering-top-notch-education-counselling-and-college-admission-assistance-to-both-local-and-international-students-with-an-in-depth-understanding-of-the-global-education-sector-the-company-provides-personalized-guidance-to-facilitate-students-sucessfull-entry-into-prestigious-education-institutions-both-in-bangalore-and-overseas-their-services-include-college-application-assistance-career-counseling-scholarship-application-guidance-education-loan-assist-and-more-all-designed-to-offer-a-seamless-and-rewarding-educational-journey-for-students-MvF {
+  width: 94rem;
+  height: 90.8rem;
+  position: absolute;
+  left: 15.6rem;
+  top: 167.1rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.575;
+  color: #1a2145;
+  font-family: Saira, 'Source Sans Pro';
+}
+.about-us-8kF .auto-group-u4x1-eyV .compact-edu-care-is-an-esteemed-education-consultancy-company-located-in-agb-layoutbangalore-india-they-specialize-in-offering-top-notch-education-counselling-and-college-admission-assistance-to-both-local-and-international-students-with-an-in-depth-understanding-of-the-global-education-sector-the-company-provides-personalized-guidance-to-facilitate-students-sucessfull-entry-into-prestigious-education-institutions-both-in-bangalore-and-overseas-their-services-include-college-application-assistance-career-counseling-scholarship-application-guidance-education-loan-assist-and-more-all-designed-to-offer-a-seamless-and-rewarding-educational-journey-for-students-MvF .compact-edu-care-is-an-esteemed-education-consultancy-company-located-in-agb-layoutbangalore-india-they-specialize-in-offering-top-notch-education-counselling-and-college-admission-assistance-to-both-local-and-international-students-with-an-in-depth-understanding-of-the-global-education-sector-the-company-provides-personalized-guidance-to-facilitate-students-sucessfull-entry-into-prestigious-education-institutions-both-in-bangalore-and-overseas-their-services-include-college-application-assistance-career-counseling-scholarship-application-guidance-education-loan-assist-and-more-all-designed-to-offer-a-seamless-and-rewarding-educational-journey-for-students-MvF-sub-0 {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.575;
+  color: #1a2145;
+  font-family: Saira, 'Source Sans Pro';
+}
+.about-us-8kF .auto-group-u4x1-eyV .compact-edu-care-is-an-esteemed-education-consultancy-company-located-in-agb-layoutbangalore-india-they-specialize-in-offering-top-notch-education-counselling-and-college-admission-assistance-to-both-local-and-international-students-with-an-in-depth-understanding-of-the-global-education-sector-the-company-provides-personalized-guidance-to-facilitate-students-sucessfull-entry-into-prestigious-education-institutions-both-in-bangalore-and-overseas-their-services-include-college-application-assistance-career-counseling-scholarship-application-guidance-education-loan-assist-and-more-all-designed-to-offer-a-seamless-and-rewarding-educational-journey-for-students-MvF .compact-edu-care-is-an-esteemed-education-consultancy-company-located-in-agb-layoutbangalore-india-they-specialize-in-offering-top-notch-education-counselling-and-college-admission-assistance-to-both-local-and-international-students-with-an-in-depth-understanding-of-the-global-education-sector-the-company-provides-personalized-guidance-to-facilitate-students-sucessfull-entry-into-prestigious-education-institutions-both-in-bangalore-and-overseas-their-services-include-college-application-assistance-career-counseling-scholarship-application-guidance-education-loan-assist-and-more-all-designed-to-offer-a-seamless-and-rewarding-educational-journey-for-students-MvF-sub-1 {
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.575;
+  color: #1a2145;
+  font-family: Saira, 'Source Sans Pro';
+}
+.about-us-8kF .auto-group-u4x1-eyV .compact-edu-care-is-an-esteemed-education-consultancy-company-located-in-agb-layoutbangalore-india-they-specialize-in-offering-top-notch-education-counselling-and-college-admission-assistance-to-both-local-and-international-students-with-an-in-depth-understanding-of-the-global-education-sector-the-company-provides-personalized-guidance-to-facilitate-students-sucessfull-entry-into-prestigious-education-institutions-both-in-bangalore-and-overseas-their-services-include-college-application-assistance-career-counseling-scholarship-application-guidance-education-loan-assist-and-more-all-designed-to-offer-a-seamless-and-rewarding-educational-journey-for-students-MvF .compact-edu-care-is-an-esteemed-education-consultancy-company-located-in-agb-layoutbangalore-india-they-specialize-in-offering-top-notch-education-counselling-and-college-admission-assistance-to-both-local-and-international-students-with-an-in-depth-understanding-of-the-global-education-sector-the-company-provides-personalized-guidance-to-facilitate-students-sucessfull-entry-into-prestigious-education-institutions-both-in-bangalore-and-overseas-their-services-include-college-application-assistance-career-counseling-scholarship-application-guidance-education-loan-assist-and-more-all-designed-to-offer-a-seamless-and-rewarding-educational-journey-for-students-MvF-sub-2 {
+}
+.about-us-8kF .auto-group-u4x1-eyV .ellipse-8326-vGX {
+  width: 70rem;
+  height: 70rem;
+  position: absolute;
+  left: 0;
+  top: 158.2rem;
+  filter: blur(21.7rem);
+  background-color: rgba(128, 87, 216, 0.125);
+  border-radius: 35rem;
+}
+.about-us-8kF .auto-group-u4x1-eyV .contact-us-Skf {
+  width: 31.6rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 78.7rem;
+  top: 148.2rem;
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  color: #1a2145;
+  font-family: Rowdies, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .ellipse-8327-Msd {
+  width: 16.5978rem;
+  height: 16.6824rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 148.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-8kF .auto-group-u4x1-eyV .unsplash-jaovgh5aj3e-Vyq {
+  width: 62.6rem;
+  height: 68.7rem;
+  position: absolute;
+  left: 113.5rem;
+  top: 161.2rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/unsplash-jaovgh5aj3e-bg.png');
+  border-radius: 5rem;
+}
+.about-us-8kF .auto-group-u4x1-eyV .rectangle-10-CdM {
+  width: 48.5rem;
+  height: 28.6rem;
+  position: absolute;
+  left: 120.5rem;
+  top: 214.7rem;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.about-us-8kF .auto-group-u4x1-eyV .looking-for-help-j7V {
+  width: 28.7rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 129.9rem;
+  top: 223.1rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.575;
+  color: #000000;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .our-consultants-are-here-to-provide-the-support-and-expertise-your-need-to-succeed-get-in-touch-today-to-learn-how-we-can-help-3P5 {
+  width: 44.9rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 122.65rem;
+  top: 230.2rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.575;
+  color: #000000;
+  font-family: Saira, 'Source Sans Pro';
+}
+.about-us-8kF .auto-group-u4x1-eyV .compact-edu-care-gwq {
+  width: 20.1rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 134.7rem;
+  top: 218rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.575;
+  color: #0032e0;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .contact-us-bou {
+  width: 31.1rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 79.65rem;
+  top: 254.3rem;
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  color: #1a2145;
+  font-family: Rowdies, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000015001-Wfy {
+  width: 48.8952rem;
+  height: 53.5rem;
+  position: absolute;
+  left: 58.8rem;
+  top: 264.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(216, 235, 255, 0.5);
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000015001-Wfy .rectangle-8680-dkb {
+  width: 38.7rem;
+  height: 52.2rem;
+  position: absolute;
+  left: 0;
+  top: 1.3rem;
+  background-color: #ffffff;
+  border-radius: 0 0 2rem 2rem;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000015001-Wfy .rectangle-8677-wmH {
+  width: 38.5rem;
+  height: 15.7rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 37.8rem;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000015001-Wfy .mask-group-UmD {
+  width: 38.7rem;
+  height: 40.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000015001-Wfy .james-praveen-ccX {
+  width: 18.4rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 42.4rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.084rem;
+  color: #314360;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .group-1000015001-Wfy .head-urX {
+  width: 5.1rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 4rem;
+  top: 47.3rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.5909090909;
+  letter-spacing: -0.066rem;
+  color: #5e6775;
+  font-family: Saira, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .contact-us-bDZ {
+  width: 52.7rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 72.7rem;
+  top: 324.6rem;
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  color: #1a2145;
+  font-family: Rowdies, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-8kF .auto-group-u4x1-eyV .unsplash-jaovgh5aj3e-Jdm {
+  width: 82.1rem;
+  height: 59.1rem;
+  position: absolute;
+  left: 60.1rem;
+  top: 333.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.about-us-8kF .auto-group-vgsh-DVq {
+  box-sizing: border-box;
+  padding: 8.25rem 0rem 0rem 5.25rem;
+  width: 92.25rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.about-us-8kF .auto-group-vgsh-DVq .rectangle-8708-wRq {
+  width: 100%;
+  height: 11.2rem;
+  background-color: #ffffff;
+}
